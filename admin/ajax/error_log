@@ -1,0 +1,25 @@
+[29-May-2014 00:10:49 America/Chicago] PHP Warning:  stream_socket_client(): SSL: crypto enabling timeout in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:10:49 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:10:49 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:10:49 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 108
+[29-May-2014 00:10:49 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 111
+[29-May-2014 00:13:20 America/Chicago] PHP Warning:  stream_socket_client(): SSL: crypto enabling timeout in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:13:20 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:13:20 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 00:13:20 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 108
+[29-May-2014 00:13:20 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 111
+[29-May-2014 09:45:48 America/Chicago] PHP Warning:  stream_socket_client(): SSL: crypto enabling timeout in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:48 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:48 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:48 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 108
+[29-May-2014 09:45:48 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 111
+[29-May-2014 09:45:51 America/Chicago] PHP Warning:  stream_socket_client(): SSL: crypto enabling timeout in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:51 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:51 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:51 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 108
+[29-May-2014 09:45:51 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 111
+[29-May-2014 09:45:52 America/Chicago] PHP Warning:  stream_socket_client(): SSL: crypto enabling timeout in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:52 America/Chicago] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:52 America/Chicago] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 95
+[29-May-2014 09:45:52 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 108
+[29-May-2014 09:45:52 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/embrace4/public_html/embrace/admin/ajax/addLastLocation.php on line 111
